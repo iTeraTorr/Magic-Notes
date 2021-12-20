@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp"
+    },
+    "editor.mouseWheelZoom": true,
+    "diffEditor.wordWrap": "on"
+}
