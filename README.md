@@ -2,5 +2,3 @@
 Smart way to take your notes
 
 
-
-
